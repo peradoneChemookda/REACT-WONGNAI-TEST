@@ -1,0 +1,9 @@
+header {
+    font-size: 2rem;
+    margin-top: 6rem;
+    /* border: 1px red solid; */
+}
+
+header > h1 {
+    color: #34AED1;
+}

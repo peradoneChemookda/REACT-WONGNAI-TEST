@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Montserrat:wght@500&family=Prompt&display=swap');
+
+* {
+  font-family: 'Kanit', sans-serif;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  width: 100%;
+  height: 100vh;
+  display : flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+}
